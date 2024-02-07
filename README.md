@@ -1,1 +1,2 @@
 # Assignment_01
+The calculator has eight functions: squareroot, which returns the square root of a number; power, which returns the number raised to the power; mean, which returns the mean of n numbers; and variance, which returns the variance of n numbers. Addition returns the addition of two numbers; subtraction returns the subtraction of two numbers; multiply returns the multiplication of two numbers; divide returns the division of two numbers. Part 1 gathers input to determine the factorial using args, scanner, buffered reader, data input stream, and console.
